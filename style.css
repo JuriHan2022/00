@@ -1,0 +1,9 @@
+h1{
+    font-size: 300px;
+    color: rgb(77, 135, 77);
+}
+
+p{
+    font-size: 16px;
+    max-width: 120ch;
+}
